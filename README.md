@@ -1,4 +1,4 @@
-## About 👋
+##👋 About 
 
 <p>
 Hi, I’m a student software developer from Kerry with a genuine interest in different areas of the software industry. I enjoy exploring new technologies, building projects, and continuously improving my skills. I’m always open to learning and taking on new challenges.
@@ -23,18 +23,18 @@ Hi, I’m a student software developer from Kerry with a genuine interest in dif
 </p>
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EoinMannix&theme=github-dark-blue&hide_border=true">
 </p>
 
-<p allign="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EoinMannix&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [MannixEoin - Budget Tracker] (https://github.com/EoinMannix/MannixEoin)
 > A client-side budget tracker built for managing income and expenditure. Includes a timer, charts, and a responsive UI - 
