@@ -1,7 +1,7 @@
 ## 👋 About 
 
 <p>
-Hi, I’m a student software developer from Kerry with a genuine interest in different areas of the software industry. I enjoy exploring new technologies, building projects, and continuously improving my skills. I’m always open to learning and taking on new challenges.
+Hi, I’m a software developing student from Kerry with a genuine interest in different areas of the software industry. I enjoy exploring new technologies, building projects, and continuously improving my skills. I’m always open to learning and taking on new challenges.
   
 </p>
 
